@@ -1,7 +1,0 @@
-C:\Users\PC\source\repos\RetailSalesPerformance\bin\Debug\RetailSalesPerformance.exe.config
-C:\Users\PC\source\repos\RetailSalesPerformance\bin\Debug\RetailSalesPerformance.exe
-C:\Users\PC\source\repos\RetailSalesPerformance\bin\Debug\RetailSalesPerformance.pdb
-C:\Users\PC\source\repos\RetailSalesPerformance\obj\Debug\RetailSalesPerformance.csproj.AssemblyReference.cache
-C:\Users\PC\source\repos\RetailSalesPerformance\obj\Debug\RetailSalesPerformance.csproj.CoreCompileInputs.cache
-C:\Users\PC\source\repos\RetailSalesPerformance\obj\Debug\RetailSalesPerformance.exe
-C:\Users\PC\source\repos\RetailSalesPerformance\obj\Debug\RetailSalesPerformance.pdb

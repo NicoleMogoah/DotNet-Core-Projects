@@ -1,7 +1,0 @@
-C:\Users\PC\source\repos\InventorySearchModule\bin\Debug\InventorySearchModule.exe.config
-C:\Users\PC\source\repos\InventorySearchModule\bin\Debug\InventorySearchModule.exe
-C:\Users\PC\source\repos\InventorySearchModule\bin\Debug\InventorySearchModule.pdb
-C:\Users\PC\source\repos\InventorySearchModule\obj\Debug\InventorySearchModule.csproj.AssemblyReference.cache
-C:\Users\PC\source\repos\InventorySearchModule\obj\Debug\InventorySearchModule.csproj.CoreCompileInputs.cache
-C:\Users\PC\source\repos\InventorySearchModule\obj\Debug\InventorySearchModule.exe
-C:\Users\PC\source\repos\InventorySearchModule\obj\Debug\InventorySearchModule.pdb
