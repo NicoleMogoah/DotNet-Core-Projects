@@ -1,0 +1,30 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Runtime data
+publish/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NuGet
+packages/
+*.nupkg
+.nuget/
+nuget.exe
+
+# OS generated files
+.DS_Store
+Thumbs.db
