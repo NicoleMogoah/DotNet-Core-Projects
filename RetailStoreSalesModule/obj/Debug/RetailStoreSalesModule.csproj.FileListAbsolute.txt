@@ -1,7 +1,0 @@
-C:\Users\PC\source\repos\RetailStoreSalesModule\bin\Debug\RetailStoreSalesModule.exe.config
-C:\Users\PC\source\repos\RetailStoreSalesModule\bin\Debug\RetailStoreSalesModule.exe
-C:\Users\PC\source\repos\RetailStoreSalesModule\bin\Debug\RetailStoreSalesModule.pdb
-C:\Users\PC\source\repos\RetailStoreSalesModule\obj\Debug\RetailStoreSalesModule.csproj.AssemblyReference.cache
-C:\Users\PC\source\repos\RetailStoreSalesModule\obj\Debug\RetailStoreSalesModule.csproj.CoreCompileInputs.cache
-C:\Users\PC\source\repos\RetailStoreSalesModule\obj\Debug\RetailStoreSalesModule.exe
-C:\Users\PC\source\repos\RetailStoreSalesModule\obj\Debug\RetailStoreSalesModule.pdb

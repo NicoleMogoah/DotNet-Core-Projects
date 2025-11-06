@@ -1,7 +1,0 @@
-C:\Users\PC\source\repos\CustomerServiceSystem\bin\Debug\CustomerServiceSystem.exe.config
-C:\Users\PC\source\repos\CustomerServiceSystem\bin\Debug\CustomerServiceSystem.exe
-C:\Users\PC\source\repos\CustomerServiceSystem\bin\Debug\CustomerServiceSystem.pdb
-C:\Users\PC\source\repos\CustomerServiceSystem\obj\Debug\CustomerServiceSystem.csproj.AssemblyReference.cache
-C:\Users\PC\source\repos\CustomerServiceSystem\obj\Debug\CustomerServiceSystem.csproj.CoreCompileInputs.cache
-C:\Users\PC\source\repos\CustomerServiceSystem\obj\Debug\CustomerServiceSystem.exe
-C:\Users\PC\source\repos\CustomerServiceSystem\obj\Debug\CustomerServiceSystem.pdb
